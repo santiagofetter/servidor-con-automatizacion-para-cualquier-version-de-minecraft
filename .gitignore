@@ -1,0 +1,50 @@
+# ================
+# Archivos genéricos
+# ================
+# Temporales/backups
+*.tmp
+*.bak
+*.swp
+*~
+
+# Logs
+*.log
+logs/
+
+# Configuraciones locales/secretos
+.env
+*.local
+secrets/
+
+# ================
+# Java/JAR
+# ================
+# Ignora .jar descargables (si usas Maven/Gradle, las dependencias se bajan automáticamente)
+*.jar
+!tu-proyecto.jar  # <- Excepción: Si tu JAR principal debe versionarse, añade esta línea
+
+# Directorios de builds y dependencias
+target/
+build/
+lib/  # Si guardas librerías manualmente aquí
+.mvn/
+.gradle/
+
+# ================
+# JSON (ignora solo archivos generados, no los de configuración esencial)
+# ================
+*-config.json  # Ejemplo: Ignora archivos de configuración generados
+temp-*.json
+
+# ================
+# Shell (.sh)
+# ================
+# No suele ignorarse, pero puedes excluir scripts temporales o de prueba
+test-*.sh
+
+# ================
+# Entornos/IDEs
+# ================
+# Directorios de entornos virtuales o IDEs
+.idea/
+.vscode/
