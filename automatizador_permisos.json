@@ -1,0 +1,9 @@
+{
+  "name": "automatizacion de permisos con chmod",
+  "postCreateCommand": "bash .automatizador_permisos/chmod.sh",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-vscode.remote-containers"]
+    }
+  }
+}
