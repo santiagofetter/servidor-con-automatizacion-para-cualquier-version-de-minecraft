@@ -1,4 +1,4 @@
-# probando
+§2# probando
 servidor de minecraft usando codespaces
 primero tienes que habrir dos terminales (ctrl + shift + c) hasta que tengas 2
 una vez que tengas las dos en una escribe "./startm.sh" y preciona enter y en la otra escribe 
