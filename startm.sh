@@ -2,7 +2,9 @@
 
 # Configuración
 MINECRAFT_JAR="server.jar" #colocas el nombre del archivo del servidor
-JAVA_MEMORY="12G" # colocas la ram que quieras ponerle al servidor en este caso esta en 12G pero es recomendable 4G para jugar de entre 2 y 5 jugadores.
+JAVA_MEMORY="12G" # colocas la ram que quieras ponerle al servidor en este caso esta en 12G pero es recomendable entre 4G y 8G para jugar de entre 2 y 5 jugadores.
+
+echo "eula=true" > eula.txt
 
 # Verificar si el archivo JAR existe
 if [ ! -f "$MINECRAFT_JAR" ]; then
