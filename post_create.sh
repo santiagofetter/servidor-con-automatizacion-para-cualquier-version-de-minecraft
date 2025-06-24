@@ -5,4 +5,3 @@ if [ ! -f eula.txt ]; then
   echo "eula=true" > eula.txt
 fi
 
-# ----- 2. Iniciar Playit -----
