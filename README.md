@@ -7,7 +7,7 @@
 6) arrastra tu archivo del servidor junto a los archivos que terminan en .sh,.json y .md
 7) ahora tocas ctrl + ñ y se va a poner la terminal.
 8) ahora en donde dice terminal todo a la derecha  te encuentras con un simbolo de "+" le haces clic para abrir dos terminales.
-9) en cualquiera de las dos terminales escribe chmod +x primero.sh startm.sh startp.sh si lo hiciste correctamente en los archivos con sus respectivos nombres a la derecha tendrian una M
+9) en cualquiera de las dos terminales escribe chmod +x primero.sh startm.sh startp.sh si lo hiciste correctamente en los archivos con sus respectivos nombres a la derecha tendrian una M y distinto color
 10) 
 11) 
 
