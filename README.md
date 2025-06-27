@@ -15,4 +15,5 @@
 14) bajas hasta donde dice crear tunel, en region la dejan y en tipo ponen minecraft java y tocan añadir tunel
 15) cuando les aparesca un error es que ya esta listo vuelve a playit.log
 16) si lo hicieste bien deberia aparecer otras cosas, baja para abajo de todo y copia lo que esta abajo de tunnels
+17) hola
 
