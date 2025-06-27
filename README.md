@@ -27,6 +27,10 @@
 26) despues presiona los 3 puntos de vuelta y presiona detener el espacio de codigo.
 27) por ultimo nuevamente preciona los 3 puntos y cambiar el tip de maquina y elige la que dice "4-core" o "4 nucleos" y toca en actualizar el espacio de codigo.
 29) linea opcional: en los 3 puntos puede tocar en rebautizar y cambiarle el nombre al de su gusto.
-30) 
-31) 
+30) ahora toca nuevamente los 3 puntos,esta es la ultima lo prometo y toca en abrir en el navegador.
+31) espera a que cargue (casi siempre son unos 30 segundos para que cargue completo)
+32) ahora vuelve a crear 2 terminales si ya no las tienes.
+33) ya con startm.sh configurado con el archivo y la ram colocas en una terminal "./startm.sh" y preciona enter.
+34) espera hasta que no ponga nada mas para verificarlo pon say hola en la terminal deberia decir algo como "[Server] hola"
+35) 
 
