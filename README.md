@@ -17,5 +17,16 @@
 16) cuando les aparesca un error es que ya esta listo vuelve a playit.log
 17) si lo hicieste bien deberia aparecer otras cosas, baja para abajo de todo y copia lo que esta abajo de tunnels hasta donde dice .link
 18) eso que copiaste es la ip que pondras porximamente en el servidor para jugar con tus amigos.
-19) 
+19) ahora cierra la pestaña, busca en goggle github y entra a la primera pagina.
+20) arriba a la izquierda te encontraras con 3 rayitas has clic en ella.
+21) has clic en donde dija codespaces o espacio de codigo.
+22) bajas hasta donde dice propiedad de (tu nombre de usuario)
+23) ahi te aparecera el codespaces que estubiste modificando, para saber si era ese deberia estar activo o si no deberia decir del repositorio que lo sacaste en este caso "santiagofetter/servidor-con-automatizacion-para-cualquier-version-de-minecraft".
+24) presiona en los tres puntos de la derecha de el codespaces.
+25) donde dice "eliminacion automatica del espacio de codigo" aparecera con un ✔ si es asi presionalo.
+26) despues presiona los 3 puntos de vuelta y presiona detener el espacio de codigo.
+27) por ultimo nuevamente preciona los 3 puntos y cambiar el tip de maquina y elige la que dice "4-core" o "4 nucleos" y toca en actualizar el espacio de codigo.
+29) linea opcional: en los 3 puntos puede tocar en rebautizar y cambiarle el nombre al de su gusto.
+30) 
+31) 
 
