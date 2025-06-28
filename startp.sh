@@ -25,8 +25,8 @@ echo "║             ¡Servicio a través de Playit.gg!    ║"
 echo "╠═════════════════════════════════════════════════╣"
 
 if [ -z "$PLAYIT_IP" ]; then
-    echo "║ ⚠️  No pudimos obtener la dirección de Playit.gg. ║"
-    echo "║    Por favor, revisa el archivo playit.log.     ║"
+    echo "║ ⚠️ No pudimos obtener la dirección de Playit.gg.║"
+    echo "║    Por favor, revisa en playit.log el enlace.    ║"
 else
     echo "║ ✅ playit marchando sin problema                ║"
     echo "║                                                 ║"
