@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuración
-archivo="server.jar" #colocas el nombre del archivo del servidor
+archivo="tu_server.jar" #colocas el nombre del archivo del servidor
 memoria_max="12G" # colocas la ram que quieras ponerle al servidor en este caso esta en 12G pero es recomendable entre 4G y 8G para jugar de entre 2 y 5 jugadores.
 memoria_min="4G" # colocas la ram minima que quieras ponerle al servidor yo lo dejaria en 4G es lo mas recomendable.
 
