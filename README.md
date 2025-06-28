@@ -30,7 +30,7 @@
 30) ahora toca nuevamente los 3 puntos,esta es la ultima lo prometo y toca en abrir en el navegador.
 31) espera a que cargue (casi siempre son unos 30 segundos para que cargue completo)
 32) ahora vuelve a crear 2 terminales si ya no las tienes.
-33) ya con startm.sh configurado con el archivo y la ram colocas en una terminal "./startm.sh" y preciona enter.
-34) espera hasta que no ponga nada mas para verificarlo pon say hola en la terminal deberia decir algo como "[Server] hola"
+33) ya con startm.sh configurado con el archivo y la ram, colocas en una terminal "./startm.sh" y preciona enter.
+34) espera hasta que no ponga nada mas, para verificarlo pon say hola en la terminal deberia decir algo como "[Server] hola"
 35) 
 
