@@ -6,7 +6,7 @@ echo "  ║      ██████╔╝██║     ███████║ 
 echo "  ║      ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██║   ██║       ║"
 echo "  ║      ██║     ███████╗██║  ██║   ██║   ██║   ██║       ║"
 echo "  ║      ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝   ╚═╝       ║"
-echo "  ║                          .gg                          ║"
+echo "  ║             .gg       espere 20 segundos              ║"
 echo "  ╠══════════════════════════════════════════════════════╣"
 
 # Define el nombre del archivo indicador
@@ -17,7 +17,7 @@ chmod +x playit-linux-amd64
 nohup ./playit-linux-amd64 > playit.log 2>&1 &
 
 # Esperamos un poco para que Playit.gg se inicie y escriba en el log
-sleep 10
+sleep 20
 
 # Extraer la IP de conexión.
 playit_ip=$(grep -a -o "[a-zA-Z0-9.-]*.gl.joinmc.link" playit.log | head -n 1)
